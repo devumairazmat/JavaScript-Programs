@@ -1,0 +1,1 @@
+1- Write a JavaScript Program to store name, phone no and marks of a subject using objects.

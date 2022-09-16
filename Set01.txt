@@ -1,0 +1,5 @@
+1- Write a JavaScript Program to store name, phone no and marks of a subject using objects.
+2- Create a variable of type string and try to add a number to it.
+3- Use type of Opertor to find the type of string in last question.
+4- Create const object in JavaScript. Can you change it to hold a number later.
+5- Write a Js Program to create a word-meaning dictionsary of 5  words.
